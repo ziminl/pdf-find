@@ -5,6 +5,6 @@ https://annas-archive.se/
 
 https://www.scribd.com/
 
-> scribd glitch 
+>> scribd glitch 
 
-python main.py
+>python main.py
